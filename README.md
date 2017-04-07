@@ -1,6 +1,6 @@
 Javascript Racing Game - Chicken vs Crabs
 
-This game is the produce of my Javascript practice. 
+This game is the made for my Javascript practice. 
 
       It is for practice purpose ONLY
       
